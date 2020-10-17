@@ -1,0 +1,332 @@
+{
+  "data": [
+    {
+      "attributes": { "col3": "M", "col1": "ANTONI", "col2": 4037.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/a1c6aa9a-6c57-58ae-b0fd-b9aacf914c08"
+      },
+      "id": "a1c6aa9a-6c57-58ae-b0fd-b9aacf914c08",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 1, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "JAN", "col2": 3823.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/1614f119-1355-57af-a009-1edeff610409"
+      },
+      "id": "1614f119-1355-57af-a009-1edeff610409",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 2, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "JAKUB", "col2": 3614.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/cebd8dde-3070-58fe-a203-5b9a4900447c"
+      },
+      "id": "cebd8dde-3070-58fe-a203-5b9a4900447c",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 3, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "ALEKSANDER", "col2": 3541.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/5797a7b9-915d-5fa2-a882-a8145f5934ba"
+      },
+      "id": "5797a7b9-915d-5fa2-a882-a8145f5934ba",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 4, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "FRANCISZEK", "col2": 3499.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/683ea5b7-6075-5667-8c80-66d9743077f4"
+      },
+      "id": "683ea5b7-6075-5667-8c80-66d9743077f4",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 5, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "SZYMON", "col2": 3107.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/69bd084c-d741-5623-acdc-7ecc785f3d64"
+      },
+      "id": "69bd084c-d741-5623-acdc-7ecc785f3d64",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 6, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "FILIP", "col2": 2744.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/91c65d2d-d40d-505b-b8d3-51a41e0501a5"
+      },
+      "id": "91c65d2d-d40d-505b-b8d3-51a41e0501a5",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 7, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "MIKO\u0141AJ", "col2": 2587.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/6531bf6f-5429-56a3-859e-a119647671a3"
+      },
+      "id": "6531bf6f-5429-56a3-859e-a119647671a3",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 8, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "STANIS\u0141AW", "col2": 2522.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/5e24e316-88fa-5c26-8fdf-96cc7bdb74b1"
+      },
+      "id": "5e24e316-88fa-5c26-8fdf-96cc7bdb74b1",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 9, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "WOJCIECH", "col2": 2416.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/176b6045-a67d-5eb3-bc74-f5e3f6600b8d"
+      },
+      "id": "176b6045-a67d-5eb3-bc74-f5e3f6600b8d",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 10, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "LEON", "col2": 2302.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/cea22f82-f882-5f57-8474-e6111042eb4d"
+      },
+      "id": "cea22f82-f882-5f57-8474-e6111042eb4d",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 11, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "ADAM", "col2": 2227.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/92fac41b-dece-50d1-bea4-abae35a4bcce"
+      },
+      "id": "92fac41b-dece-50d1-bea4-abae35a4bcce",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 12, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "KACPER", "col2": 2166.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/d0ba0522-081c-586b-8fc6-c7e1816bcb23"
+      },
+      "id": "d0ba0522-081c-586b-8fc6-c7e1816bcb23",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 13, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "NIKODEM", "col2": 2081.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/e0fbdd08-dfbf-517b-b01b-7fced8450d9b"
+      },
+      "id": "e0fbdd08-dfbf-517b-b01b-7fced8450d9b",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 14, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "MARCEL", "col2": 1979.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/422ad303-8004-5129-97ac-e2b1517f841d"
+      },
+      "id": "422ad303-8004-5129-97ac-e2b1517f841d",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 15, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "TYMON", "col2": 1960.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/8706401f-72d5-51f6-bb5d-1324bb7fdee5"
+      },
+      "id": "8706401f-72d5-51f6-bb5d-1324bb7fdee5",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 16, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "IGNACY", "col2": 1869.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/f2746665-aa32-5ee9-bff9-b9bce3234d94"
+      },
+      "id": "f2746665-aa32-5ee9-bff9-b9bce3234d94",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 17, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "MICHA\u0141", "col2": 1764.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/f1da4a02-6336-5d18-bfd0-caa6900f9348"
+      },
+      "id": "f1da4a02-6336-5d18-bfd0-caa6900f9348",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 18, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "WIKTOR", "col2": 1709.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/0f59d1c1-30a6-5b23-8156-9b3ebf2b20f1"
+      },
+      "id": "0f59d1c1-30a6-5b23-8156-9b3ebf2b20f1",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 19, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    },
+    {
+      "attributes": { "col3": "M", "col1": "PIOTR", "col2": 1476.0 },
+      "links": {
+        "self": "https://api.dane.gov.pl/resources/26012/data/a58ad002-a865-5d88-8a97-de0c9769a99a"
+      },
+      "id": "a58ad002-a865-5d88-8a97-de0c9769a99a",
+      "relationships": {
+        "resource": {
+          "data": { "id": "26012", "type": "resource" },
+          "links": { "related": "https://api.dane.gov.pl/resources/26012" }
+        }
+      },
+      "meta": { "row_no": 20, "updated_at": "2020-09-15T11:11:10Z" },
+      "type": "row"
+    }
+  ],
+  "jsonapi": { "version": "1.0" },
+  "links": {
+    "next": "https://api.dane.gov.pl/resources/26012,imiona-nadane-dzieciom-w-polsce-w-i-poowie-2020-r-imie-pierwsze/data?page=2",
+    "self": "https://api.dane.gov.pl/resources/26012,imiona-nadane-dzieciom-w-polsce-w-i-poowie-2020-r-imie-pierwsze/data?page=1",
+    "last": "https://api.dane.gov.pl/resources/26012,imiona-nadane-dzieciom-w-polsce-w-i-poowie-2020-r-imie-pierwsze/data?page=51"
+  },
+  "meta": {
+    "count": 1007,
+    "path": "/resources/26012,imiona-nadane-dzieciom-w-polsce-w-i-poowie-2020-r-imie-pierwsze/data",
+    "aggregations": {},
+    "relative_uri": "/resources/26012,imiona-nadane-dzieciom-w-polsce-w-i-poowie-2020-r-imie-pierwsze/data",
+    "language": "pl",
+    "params": {},
+    "server_time": "2020-10-17T18:56:16Z",
+    "data_schema": {
+      "fields": [
+        { "name": "col1", "type": "string", "format": "default" },
+        { "name": "col2", "type": "integer", "format": "default" },
+        { "name": "col3", "type": "string", "format": "default" }
+      ],
+      "missingValues": [""]
+    },
+    "headers_map": {
+      "col1": "Imi\u0119",
+      "col2": "Liczba",
+      "col3": "P\u0142e\u0107"
+    }
+  }
+}
